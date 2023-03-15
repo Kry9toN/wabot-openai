@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "openai": "^3.2.1",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.19.4"
+  },
+  "name": "wabot-openai",
+  "version": "1.0.0",
+  "description": "Whatsapp bot with OpenAI",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
